@@ -1,6 +1,0 @@
-the firt thing i did was to organise my folders.
-finding the data set NSL-KDD- 
-
---------------------------------------------------------
-
-update player.cs to add index 10 string.
